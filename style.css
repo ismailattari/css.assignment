@@ -1,0 +1,27 @@
+a{
+    margin-right: 5px;
+    border: 2px;
+    background-color: rgb(105, 20, 189);
+    color: white;
+}
+    
+
+a{
+    border: 2px;
+}
+.one{
+    background-color: rgb(217, 16, 16);
+    text-align: center;
+}
+h2{
+    color: blue;
+    margin-left: 60px;
+}
+h2#mix dal{
+    margin-left: 200;
+}
+#deel{text-align: center;
+background-color: violet;}
+#deeltwo{margin-left: 50px;
+
+}
